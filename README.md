@@ -7,6 +7,7 @@
          -: If data is not labeled then use "labelimg" and label your data 
          -: create folder (annotations and images) [E.g, cardDetection-:(annotations,images)]
          -: put your Images in "images" folder and it's XML in "annotations" folder
+         -: "pretrained-yolov3.h5" download this from internet
          -: check version of tensorflow
          -: now, set your path and run your script
          
